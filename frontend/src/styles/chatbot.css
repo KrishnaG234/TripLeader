@@ -1,0 +1,52 @@
+/* Center align the entire page */
+.gemini-page {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex; /* Add flex display */
+  justify-content: center; /* Center align horizontally */
+  align-items: center; /* Center align vertically */
+  height: 100vh; /* Set height to 100% of viewport height */
+}
+
+/* Container for generated content */
+.generated-content {
+  margin-top: 20px;
+}
+.search-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+/* Styling for the content area */
+.content {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Styling for headings */
+.content h2 {
+  margin-bottom: 10px;
+}
+
+/* Styling for paragraphs */
+.content p {
+  margin: 0;
+}
+
+.delius-swash {
+  font-family: "Delius Swash Caps";
+}
+
+/* Center align h1 */
+h1 {
+  text-align: center; /* Center align */
+}
+
+/* Center align search bar */
+.search-bar {
+  text-align: center; /* Center align */
+}

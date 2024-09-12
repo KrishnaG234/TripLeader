@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Lakshwadeep",
+    "city": "Lakshwadeep",
+    "address": "South India",
+    "distance": 500,
+    "price": 10000,
+    "maxGroupSize": 10,
+    "desc": "Settled off the Kerala coast on Laccadive sea, Lakshadweep translates to ‘a hundred thousand islands’. A club of 36 atolls and coral reefs, the nature tourism destination is known for preserved ecology and water sports",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img01.jpg",
+    "featured": true
+  },
+  {
+    "title": "Leh",
+    "city": "Ladakh",
+    "address": "North India",
+    "distance": 400,
+    "price": 10000,
+    "maxGroupSize": 8,
+    "desc": "Located at a height of 11,500 feet, Leh finds place in the bucket list of many travel enthusiasts. It will leave you in awe with its iconic monasteries and picturesque landscapes",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img02.jpg",
+    "featured": true
+  },
+  {
+    "title": "Gokarna",
+    "city": "Karnataka",
+    "address": "South India",
+    "distance": 500,
+    "price": 10000,
+    "maxGroupSize": 8,
+    "desc": "Home to pristine beaches bordered by swaying palms and renowned Hindu shrines, Gokarna is an unspoilt temple town in Karnataka. It lies close to popular tourist destinations like Goa, Mangalore and Hubli",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Srinagar",
+    "city": "Jammu and Kashmir",
+    "address": "North India",
+    "distance": 500,
+    "price": 10000,
+    "maxGroupSize": 8,
+    "desc": "ahangirs heaven on earth, Srinagar offers the picturesque Dal Lake, breath-taking mountain views, stunning Mughal gardens and sprawling orchards",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img04.jpg",
+    "featured": true
+  },
+  {
+    "title": "Havelock Island",
+    "city": "Andaman",
+    "address": "South India",
+    "distance": 500,
+    "price": 10000,
+    "maxGroupSize": 8,
+    "desc": "Also known as Swaraj Island, Havelock Island is a part of Ritchie’s Archipelago in the Andamans. Its dazzling white sand beaches and fascinating coral reefs are admired by nature lovers from around the world",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img05.jpg",
+    "featured": true
+  },
+  {
+    "title": "Goa",
+    "city": "Panaji",
+    "address": "West India",
+    "distance": 500,
+    "price": 10000,
+    "maxGroupSize": 8,
+    "desc": "Popularly known as India party capital, Goa seduces travellers from all around the globe with its boho beaches, ancient churches, majestic forts and unbeatable nightlife!",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img06.jpg",
+    "featured": true
+  },
+  {
+    "title": "Manali",
+    "city": "Himachal",
+    "address": "North India",
+    "distance": 500,
+    "price": 10000,
+    "maxGroupSize": 8,
+    "desc": "Nestled on the banks of River Beas, Manali will take your breath away with its snow-kissed peaks, lush valleys and heart-pumping adventure experiences in the heart of Himalayas.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img07.jpg",
+    "featured": true
+  },
+  {
+    "title": "Amritsar",
+    "city": "Punjab",
+    "address": "North India",
+    "distance": 500,
+    "price": 10000,
+    "maxGroupSize": 8,
+    "desc": "Home to the legendary Sikh shrine Golden Temple, Amritsar is fondly called Ambarsar and will steal your heart with its colourful bazaars, lip-smacking street food, shopping hubs and historical monuments.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Jaflong, Sylhet",
+    "city": "Sylhet",
+    "address": "Somewhere in Sylhet",
+    "distance": 100,
+    "price": 10000,
+    "maxGroupSize": 5,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img08.jpg",
+    "featured": false
+  },
+  {
+    "title": "Cox's Bazar Sea Beach",
+    "city": "Chittagong",
+    "address": "Somewhere in Chittagong",
+    "distance": 500,
+    "price": 10000,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img09.jpg",
+    "featured": false
+  }
+]
